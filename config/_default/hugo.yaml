@@ -23,10 +23,10 @@ cascade:
 ############################
 ## LANGUAGE
 ############################
-
+languageCode: ko
 defaultContentLanguage: ko
-hasCJKLanguage: true
 defaultContentLanguageInSubdir: true
+hasCJKLanguage: true
 removePathAccents: true
 
 ############################
