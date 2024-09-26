@@ -1,30 +1,22 @@
 ---
-# An instance of the Contact widget.
-# Documentation: https://docs.hugoblox.com/getting-started/page-builder/
+# An instance of the About widget.
+# Documentation: https://docs.hugoblox.com/page-builder/
 widget: contact
+
+# Activate this widget? true/false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 10
 
-title: Get in touch
-subtitle:
+title: Hello
 
-content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
-design:
-  columns: '1'
+# Choose the user profile to display
+# This should be the username (folder name) of a profile in your `content/authors/` folder.
+# See https://docs.hugoblox.com/get-started/#introduce-yourself
+author: admin
 ---
+
