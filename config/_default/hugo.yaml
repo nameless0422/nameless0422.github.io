@@ -23,7 +23,6 @@ cascade:
 ############################
 ## LANGUAGE
 ############################
-languageCode: ko
 defaultContentLanguage: ko
 defaultContentLanguageInSubdir: true
 hasCJKLanguage: true
