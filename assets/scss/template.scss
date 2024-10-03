@@ -117,18 +117,20 @@ ul.network-icon .big-icon {
 }
 
 .intro .text {
-  font-size: 1.2rem; 
-  background: #F5FAD1; 
-  background: linear-gradient(to right, #F5FAD1 0%, #D1EBA1 30%, #A6D577 60%, #76C352 100%); 
-  background-clip: text; 
+  font-size: 1.2rem;
+}
+
+/* 그라디언트 텍스트 스타일 */
+.intro .text.gradient {
+  background: linear-gradient(to right, #F5FAD1 0%, #D1EBA1 30%, #A6D577 60%, #76C352 100%);
+  -webkit-background-clip: text;  
   -webkit-text-fill-color: transparent;
 }
 
-.dark .intro .text {
-  font-size: 1.2rem; 
-  background: #F5FAD1; 
-  background: linear-gradient(to right, #F5FAD1 0%, #D1EBA1 30%, #A6D577 60%, #76C352 100%); 
-  background-clip: text; 
+/* 그라디언트 텍스트 스타일 */
+.dark .intro .text.gradient {
+  background: linear-gradient(to right, #F5FAD1 0%, #D1EBA1 30%, #A6D577 60%, #76C352 100%);
+  -webkit-background-clip: text;  
   -webkit-text-fill-color: transparent;
 }
 
