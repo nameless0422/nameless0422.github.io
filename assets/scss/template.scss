@@ -139,4 +139,6 @@ ul.network-icon .big-icon {
   padding: 0 4px;
   border-radius: 4px;
   font-weight: bold;
+  -webkit-background-clip: text;  
+  -webkit-text-fill-color: transparent;
 }
