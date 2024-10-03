@@ -116,4 +116,18 @@ ul.network-icon .big-icon {
   font-size: 0.8rem;
 }
 
+.intro .text {
+  font-size: 1.2rem; 
+  background: #F5FAD1; 
+  background: linear-gradient(to right, #F5FAD1 0%, #D1EBA1 30%, #A6D577 60%, #76C352 100%); 
+  background-clip: text; 
+  -webkit-text-fill-color: transparent;
+}
 
+.dark .intro .text {
+  font-size: 1.2rem; 
+  background: #F5FAD1; 
+  background: linear-gradient(to right, #F5FAD1 0%, #D1EBA1 30%, #A6D577 60%, #76C352 100%); 
+  background-clip: text; 
+  -webkit-text-fill-color: transparent;
+}
