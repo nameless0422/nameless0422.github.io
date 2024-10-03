@@ -19,7 +19,7 @@ author: admin
 ---
 
 <div class="intro">
-  <p class="text">👋 Hi, there! I'm **Jinyeong**, majoring in computer science at JBNU.</p>
+  <p class="text">👋 Hi, there! I'm <b>Jinyeong</b>, majoring in computer science at JBNU.</p>
 </div>
 
 Check out my [resumé](/about/) and portfolio below 🥑
