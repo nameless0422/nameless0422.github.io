@@ -7,10 +7,19 @@ main:
   - name: Home
     url: /
     weight: 10
+  - name: "게시글"
+    weight : 110
+  - name : "최신"
+    parent : "게시글"
+    url : post/latest/
+    weight : 111
+  - name : "목록"
+    url: post/
+    weight : 112
   - name: 연락처
     url: contact/
-    weight : 20
+    weight : 200
   - name: 이력서
     url: about/
-    weight: 30
+    weight: 300
   
