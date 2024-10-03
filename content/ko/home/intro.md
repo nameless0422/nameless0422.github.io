@@ -19,7 +19,7 @@ author: admin
 ---
 
 <div class="intro">
-  <p class="text gradient">💻 <span class="highlight">최진영</span>, 전북대 컴퓨터인공지능공학부 재학중</p>
+  💻<p class="text gradient"><span class="highlight">최진영</span>, 전북대 컴퓨터인공지능공학부 재학중</p>
 </div>
 
 Check out my [resumé](/about/) and portfolio below 🥑
