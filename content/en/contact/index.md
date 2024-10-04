@@ -8,8 +8,6 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: |-
-        <br> <span style="font-size:95%"></span> <br>
       email: cjy042218@gmail.com
       phone: +82-10-8685-4065
       address:
@@ -19,7 +17,10 @@ sections:
         postcode: '54896'
         country: 대한민국
         country_code: KO
-        
+      coordinates:
+        latitude: '35.84601324617979'
+        longitude: '127.13444961966684'
+      directions:
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
