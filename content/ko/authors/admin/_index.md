@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: leaning about CS
+  - course: learning about CS
     institution: 전북대학교
     year: 2024
 
