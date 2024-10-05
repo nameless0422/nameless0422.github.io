@@ -23,8 +23,5 @@ main:
   - name: 더보기
     url: about/
     weight: 300
-  - name : "skill"
-    parent : "더보기"
-    url : about/skill/skill.md
-    weight : 301
+ 
    
