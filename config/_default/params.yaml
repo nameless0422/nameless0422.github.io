@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'about cjy'
+    og_image: 'https://github.com/nameless0422/nameless0422/raw/main/programWorking.jpg'
+    description: 'portfolio of cjy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
