@@ -1,7 +1,6 @@
 ---
 title: My Skills
-type: widget_page
-headless: true
+type: landing
 
 sections:
   - block: featurette
@@ -64,4 +63,5 @@ sections:
         </p>
     design:
       columns: '1'
+
 ---
