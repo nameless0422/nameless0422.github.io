@@ -23,5 +23,13 @@ main:
   - name: 더보기
     url: about/
     weight: 300
+  - name : "resumé"
+    parent : "더보기"
+    url: about/resume/
+    weight: 301
+  - name : "skill"
+    parent : "더보기"
+    url: about/skill/
+    weight: 302
  
    
