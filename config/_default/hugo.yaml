@@ -89,7 +89,7 @@ languages:
         weight: 301
       - name : "skill"
         parent : "About"
-        url: /about/skill
+        url: /skill
         weight: 302
         
 defaultContentLanguage: ko
