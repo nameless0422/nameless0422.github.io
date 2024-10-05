@@ -1,5 +1,5 @@
 ---
-title: My page
+title: skill
 type: landing
 
 sections:
