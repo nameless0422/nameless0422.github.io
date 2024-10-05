@@ -1,17 +1,9 @@
 ---
-title: skill
-type: landing
+# Homepage
+type: widget_page
 
-sections:
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
-    
+# Homepage is headless, other widget pages are not.
+headless: true
 ---
 
 <p style="background-color:#20232a;">
