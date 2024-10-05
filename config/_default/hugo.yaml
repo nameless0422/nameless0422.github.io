@@ -30,7 +30,7 @@ languages:
     languageName: Korean
     contentDir: content/ko
     weight: 1
-    manu:
+    menu:
       main:
       - name: Home
         url: /
