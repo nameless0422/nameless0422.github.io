@@ -1,6 +1,10 @@
 ---
 title: 
-type: landing
+# This file represents a page section.
+headless: true
+
+# Order that this section will appear in.
+weight: 10
 
 sections:
   - block: skills
