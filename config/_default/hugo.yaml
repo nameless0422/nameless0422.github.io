@@ -49,7 +49,6 @@ languages:
         url: /contact
         weight : 200
       - name: "더보기"
-        url: /about
         weight: 300
       - name : "resumé"
         parent : "더보기"
@@ -83,14 +82,13 @@ languages:
         url: /contact
         weight : 200
       - name: "About"
-        url: /about
         weight: 300
       - name : "Resumé"
-        parent : "더보기"
+        parent : "About"
         url: /about
         weight: 301
       - name : "skill"
-        parent : "더보기"
+        parent : "About"
         url: /about/skill
         weight: 302
         
