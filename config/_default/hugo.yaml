@@ -56,7 +56,7 @@ languages:
         weight: 301
       - name : "skill"
         parent : "더보기"
-        url: /about/skill
+        url: /skill
         weight: 302
   en:
     languageCode: en-us
