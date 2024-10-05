@@ -100,6 +100,13 @@ skills:
         icon: camera-retro
         icon_pack: fas
 
+email: "cjy042218@gmail.com"
+
+tags: ["전북대", "전북대학교", "JBNU", "작성자", "최진영", "CHOI", "CHOI JIN YEONG", "CHOIJINYEONG", "JINYEONG", "choi", "choi jin yeong", "jinyeong", "choi jinyeong", "HUE_A_", "HUE_A", "heu_a_", "heu_a", "전북", "전주", "대학교", "academy", "Jeonbuk", "Jeonbuk National", "Jeonbuk National University", "National University", "Jeonbuk University", "university", "student", "cjy", "writer", "nameless0422.com", "cjy042218@gmail.com", "email"]
+
+keyword: ["전북대", "전북대학교", "JBNU", "작성자", "최진영", "CHOI", "CHOI JIN YEONG", "CHOIJINYEONG", "JINYEONG", "choi", "choi jin yeong", "jinyeong", "choi jinyeong", "HUE_A_", "HUE_A", "heu_a_", "heu_a", "전북", "전주", "대학교", "academy", "Jeonbuk", "Jeonbuk National", "Jeonbuk National University", "National University", "Jeonbuk University", "university", "student", "cjy", "writer", "nameless0422.com", "cjy042218@gmail.com", "email"]
+
+
 ---
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
