@@ -61,23 +61,6 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
   - email: "cjy042218@gmail.com"
 
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-  - name: Hobbies
-    items:
-      - name: Hiking
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas  
 ---
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
