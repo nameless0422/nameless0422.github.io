@@ -20,7 +20,11 @@ main:
   - name: 연락처
     url: contact/
     weight : 200
-  - name: 이력서
+  - name: 더보기
     url: about/
     weight: 300
-  
+  - name : "skill"
+    parent : "더보기"
+    url : about/skill/
+    weight : 301
+   
