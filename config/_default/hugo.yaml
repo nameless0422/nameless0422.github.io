@@ -25,49 +25,11 @@ cascade:
 ############################
 
 languages:
-  en:
-    weight: 2
-    languageCode: en-us
-    languageName: English
-    # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-    contentDir: content/en
-    menu:
-      main:
-      - name: Home
-        url: /
-        weight: 10
-      - name: "게시글"
-        weight : 110
-      - name : "최신"
-        parent : "게시글"
-        url : /post/latest
-        weight : 111
-      - name : "목록"
-        parent : "게시글"
-        url: /post
-        weight : 112
-      - name: "Contact"
-        url: /contact
-        weight : 200
-      - name: "About"
-        url: /about
-        weight: 300
-      - name : "Resumé"
-        parent : "더보기"
-        url: /about
-        weight: 301
-      - name : "skill"
-        parent : "더보기"
-        url: /about/skill
-        weight: 302
-
-
-# Uncomment the lines below to configure your website in a second language.
-ko:
-    weight: 1
+  ko:
     languageCode: ko
     languageName: Korean
     contentDir: content/ko
+    weight: 1
     manu:
       main:
       - name: Home
@@ -97,10 +59,44 @@ ko:
         parent : "더보기"
         url: /about/skill
         weight: 302
-
+  en:
+    languageCode: en-us
+    languageName: English
+    contentDir: content/en
+    weight: 2
+    menu:
+      main:
+      - name: Home
+        url: /
+        weight: 10
+      - name: "게시글"
+        weight : 110
+      - name : "최신"
+        parent : "게시글"
+        url : /post/latest
+        weight : 111
+      - name : "목록"
+        parent : "게시글"
+        url: /post
+        weight : 112
+      - name: "Contact"
+        url: /contact
+        weight : 200
+      - name: "About"
+        url: /about
+        weight: 300
+      - name : "Resumé"
+        parent : "더보기"
+        url: /about
+        weight: 301
+      - name : "skill"
+        parent : "더보기"
+        url: /about/skill
+        weight: 302
+        
 defaultContentLanguage: ko
+hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
-hasCJKLanguage: true
 removePathAccents: true
  
 ############################
