@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Portfolio of CJY  # Website name
-baseURL: 'https://github.com/nameless0422/nameless0422.github.io' # Website URL
+baseURL: 'https://nameless0422.github.io' # Website URL
 
 ############################
 ## PAGE OPTIONS

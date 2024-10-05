@@ -25,7 +25,7 @@ main:
     weight: 300
   - name : "resumé"
     parent : "더보기"
-    url: /about/resume
+    url: /about
     weight: 301
   - name : "skill"
     parent : "더보기"
