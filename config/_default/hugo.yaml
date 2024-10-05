@@ -93,7 +93,7 @@ languages:
         weight: 302
         
 defaultContentLanguage: ko
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: true
 removePathAccents: true
  
