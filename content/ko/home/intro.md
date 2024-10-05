@@ -22,4 +22,4 @@ author: admin
   💻<p class="text gradient">전북대학교 컴퓨터인공지능공학부 재학중</p>
 </div>
 
-Check out my [resumé](/about/) and portfolio below 🥑
+Check out my [resumé](/ko/about/) and portfolio below 🥑
