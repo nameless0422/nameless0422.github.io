@@ -66,7 +66,7 @@ skills:
       - name: node-js
         description: ''
         percent: 40
-        icon: node-js
+        icon: node
         icon_pack: fas
       - name: SQL
         description: ''
@@ -82,10 +82,10 @@ skills:
         percent: 70
         icon: gamepad
         icon_pack: fas
-      - name: Drink
+      - name: drinking
         description: ''
         percent: 100
-        icon: MartiniGlassCitrus
+        icon: whiskey-glass
         icon_pack: fas
       - name: Listening to music
         description: ''
