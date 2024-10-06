@@ -63,7 +63,7 @@ skills:
         percent: 60
         icon: js
         icon_pack: fab
-      - name: node-js
+      - name: nodejs
         description: ''
         percent: 40
         icon: code
