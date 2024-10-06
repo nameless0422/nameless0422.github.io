@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Republic of Korea Army
     organization_url: https://www.mnd.go.kr/mbshome/mbs/mnd/index.jsp
-    title: 53rd Infantry Division Army Sergeant Myeonje Station
+    title: Served and discharged from ROK ArmyBand, Sergeant
     url: ''
 
 design:
