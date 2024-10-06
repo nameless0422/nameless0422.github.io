@@ -6,8 +6,8 @@ sections:
   - block: slider
     content:
       slides:
-        - title: 👋 Welcome to the group
-          content: Take a look at what we're working on...
+        - title: 👋 Hello!
+          content: 
           align: center
           background:
             image:
@@ -18,8 +18,8 @@ sections:
                 brightness: 0.7
             position: right
             color: '#666'
-        - title: Lunch & Learn ☕️
-          content: 'Share your knowledge with the group and explore exciting new topics together!'
+        - title: I prefer to talk about development. ☕️
+          content:
           align: left
           background:
             image:
@@ -30,8 +30,8 @@ sections:
                 brightness: 0.7
             position: center
             color: '#555'
-        - title: World-Class Semiconductor Lab
-          content: 'Just opened last month!'
+        - title: For work-related contacts, 
+          content: please refer to the following
           align: right
           background:
             image:
@@ -43,9 +43,9 @@ sections:
             position: center
             color: '#333'
           link:
-            icon: graduation-cap
+            icon: phone
             icon_pack: fas
-            text: Join Us
+            text: Contact
             url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
@@ -53,7 +53,7 @@ sections:
       # Make the slides full screen within the browser window?
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 ---
