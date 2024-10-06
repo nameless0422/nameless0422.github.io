@@ -58,6 +58,9 @@ languages:
         parent : "더보기"
         url: /skill
         weight: 302
+      - name : "skill"
+        url: /slide
+        weight: 400
   en:
     languageCode: en-us
     languageName: English
@@ -91,6 +94,9 @@ languages:
         parent : "About"
         url: /skill
         weight: 302
+      - name : "skill"
+        url: /slide
+        weight: 400
         
 defaultContentLanguage: ko
 hasCJKLanguage: true
