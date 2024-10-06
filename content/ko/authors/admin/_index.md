@@ -58,15 +58,15 @@ social:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Javascript
         description: ''
-        percent: 80
-        icon: python
+        percent: 60
+        icon: js
         icon_pack: fab
-      - name: Data Science
+      - name: node-js
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 40
+        icon: node-js
         icon_pack: fas
       - name: SQL
         description: ''
@@ -77,20 +77,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Game
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 70
+        icon: gamepad
         icon_pack: fas
-      - name: Cats
+      - name: Drink
         description: ''
         percent: 100
-        icon: cat
+        icon: MartiniGlassCitrus
         icon_pack: fas
-      - name: Photography
+      - name: Listening to music
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 90
+        icon: headphones
         icon_pack: fas
 
 email: "cjy042218@gmail.com"
