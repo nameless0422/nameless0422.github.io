@@ -66,7 +66,7 @@ skills:
       - name: node-js
         description: ''
         percent: 40
-        icon: node
+        icon: code
         icon_pack: fas
       - name: SQL
         description: ''
