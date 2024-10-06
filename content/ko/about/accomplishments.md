@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
+  - certificate_url: https://www.mnd.go.kr/mbshome/mbs/mnd/index.jsp
+    date_end: '2023-11-23'
+    date_start: '2022-05-24'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: 대한민국 육군
+    organization_url: https://www.mnd.go.kr/mbshome/mbs/mnd/index.jsp
+    title: 53사단 군악대 육군 병장 만기전역
     url: ''
 
 design:
