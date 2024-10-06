@@ -35,7 +35,7 @@ languages:
       - name: Home
         url: /
         weight: 10
-        - name : "서문"
+      - name : "서문"
         url: /slide
         weight: 100
       - name: "게시글"
