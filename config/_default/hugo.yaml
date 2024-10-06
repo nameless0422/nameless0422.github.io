@@ -35,6 +35,9 @@ languages:
       - name: Home
         url: /
         weight: 10
+        - name : "서문"
+        url: /slide
+        weight: 100
       - name: "게시글"
         weight : 110
       - name : "최신"
@@ -48,9 +51,6 @@ languages:
       - name: "연락처"
         url: /contact
         weight : 200
-      - name : "slide"
-        url: /slide
-        weight: 300
       - name: "더보기"
         weight: 400
       - name : "resumé"
@@ -71,22 +71,22 @@ languages:
       - name: Home
         url: /
         weight: 10
-      - name: "게시글"
+      - name : "introduction"
+        url: /slide
+        weight: 100
+      - name: "Post"
         weight : 110
-      - name : "최신"
-        parent : "게시글"
+      - name : "Latest"
+        parent : "Post"
         url : /post/latest
         weight : 111
-      - name : "목록"
-        parent : "게시글"
+      - name : "List"
+        parent : "Post"
         url: /post
         weight : 112
       - name: "Contact"
         url: /contact
         weight : 200
-      - name : "slide"
-        url: /slide
-        weight: 300
       - name: "About"
         weight: 400
       - name : "Resumé"
