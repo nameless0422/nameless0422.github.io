@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
     - name: Team Project
       tag: TP
-    - name: NLP
-      tag: NLP
+    - name: Toy Project
+      tag: TYP
+    - name: ETC.
+      tag: ETC
 
 design:
   columns: '1'
