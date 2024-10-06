@@ -39,15 +39,8 @@ languages:
         url: /slide
         weight: 100
       - name: "게시글"
-        weight : 110
-      - name : "최신"
-        parent : "게시글"
-        url : /post/latest
-        weight : 111
-      - name : "목록"
-        parent : "게시글"
         url: /post
-        weight : 112
+        weight: 101
       - name: "연락처"
         url: /contact
         weight : 200
@@ -75,15 +68,8 @@ languages:
         url: /slide
         weight: 100
       - name: "Post"
-        weight : 110
-      - name : "Latest"
-        parent : "Post"
-        url : /post/latest
-        weight : 111
-      - name : "List"
-        parent : "Post"
         url: /post
-        weight : 112
+        weight: 101
       - name: "Contact"
         url: /contact
         weight : 200
