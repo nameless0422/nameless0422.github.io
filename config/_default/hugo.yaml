@@ -48,19 +48,19 @@ languages:
       - name: "연락처"
         url: /contact
         weight : 200
-      - name: "더보기"
+      - name : "slide"
+        url: /slide
         weight: 300
+      - name: "더보기"
+        weight: 400
       - name : "resumé"
         parent : "더보기"
         url: /about
-        weight: 301
+        weight: 401
       - name : "skill"
         parent : "더보기"
         url: /skill
-        weight: 302
-      - name : "skill"
-        url: /slide
-        weight: 400
+        weight: 402
   en:
     languageCode: en-us
     languageName: English
@@ -84,19 +84,19 @@ languages:
       - name: "Contact"
         url: /contact
         weight : 200
-      - name: "About"
+      - name : "slide"
+        url: /slide
         weight: 300
+      - name: "About"
+        weight: 400
       - name : "Resumé"
         parent : "About"
         url: /about
-        weight: 301
+        weight: 401
       - name : "skill"
         parent : "About"
         url: /skill
-        weight: 302
-      - name : "skill"
-        url: /slide
-        weight: 400
+        weight: 402
         
 defaultContentLanguage: ko
 hasCJKLanguage: true
